@@ -7,7 +7,7 @@ slug: howto_exportonpdf_gridaspnetmv
 
 # Export Grid Data in PDF
 
-To see the example on how to export the Kendo UI Grid data to a PDF (portable document format) file server-side, refer to [thsi project](https://github.com/telerik/ui-for-aspnet-mvc-examples/tree/master/grid/pdf-export-server-side)
+To see the example on how to export the Kendo UI Grid data to a PDF (portable document format) file server-side, refer to [this project](https://github.com/telerik/ui-for-aspnet-mvc-examples/tree/master/grid/pdf-export-server-side)
 
 ## See Also
 
@@ -27,7 +27,7 @@ Other articles and how-to examples on the Kendo UI Grid HtmlHelper:
 * [How to Use Grid Hierarchy with Dynamic Model Loading and DataTable]({% slug howto_usegridhierarchydynamicmodelload_gridaspnetmv %})
 * [How to Use Grid Self-Referencing Hierarchy]({% slug howto_usegridselfrefhierarchy_gridaspnetmv %})
 * [How to Use oData v4 with WebAPI Controller]({% slug howto_useodata4webapicontroller_gridaspnetmvc %})
-* [How to Use the Sortable to Reorder Grid Rows]({% slug howto_usesortabletoreorder_gridaspnetmv %})
+* [How to Use Sortable to Reorder Grid Rows]({% slug howto_usesortabletoreorder_gridaspnetmv %})
 * [How to Use UTC on Both Client and Server]({% slug howto_useutctimeonclientandserver_gridaspnetmv %})
 
 For more runnable examples on the Kendo UI Grid HtmlHelper, browse the [how-to section of articles]({% slug howto_applycustomrowstylesbasedondata_gridaspnetmvc %}).
